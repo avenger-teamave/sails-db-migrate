@@ -1,11 +1,11 @@
 {
-  "name": "sails-db-migrate",
+  "name": "sails-db-migrate_fork",
   "version": "1.3.1",
   "description": "db-migrate integration for sails.js",
   "main": "index.js",
   "repository": {
     "type": "git",
-    "url": "https://github.com/building5/sails-db-migrate.git"
+    "url": "https://github.com/avenger-teamave/sails-db-migrate.git"
   },
   "keywords": [
     "sails",
@@ -15,9 +15,9 @@
   "author": "David M. Lee, II",
   "licenses": "MIT",
   "bugs": {
-    "url": "https://github.com/building5/sails-db-migrate/issues"
+    "url": "https://github.com/avenger-teamave/sails-db-migrate/issues"
   },
-  "homepage": "https://github.com/building5/sails-db-migrate",
+  "homepage": "https://github.com/avenger-teamave/sails-db-migrate",
   "dependencies": {},
   "devDependencies": {},
   "peerDependencies": {
